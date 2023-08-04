@@ -26,11 +26,11 @@ _Previously worked as a Operations Administrator from September 2016 - June 2021
 
 ## 👩🏼‍🎓 Education    
 
-**16-week intensive Professional Software Development course** focused on full-stack JavaScript<br>
+**PDA Software Development SCQF Level 8** a 16-week intensive Professional Software Development course<br>
 [CodeClan](https://www.codeclan.co.uk) - Glasgow, Scotland _(March 2023 - July 2023)_ <br>
 
 **HNC** in Business Studies<br>
-[New College Lanarkshire](#) - Motherwell, Scotland _(2015 - 2016)_
+[New College Lanarkshire](https://www.nclanarkshire.ac.uk/) - Motherwell, Scotland _(2015 - 2016)_
 
 
 ## 📌 Volunteering    
