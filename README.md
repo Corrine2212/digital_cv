@@ -12,7 +12,7 @@ My first ever CodeClan solo project! Using Python, Flask, PostgreSQL and Djinja 
 **Tech Stack:** Python, Flask, PostgreSQL  
 
 [View github repo](https://github.com/Corrine2212/project_01_travel_bucket_list)
-<br>
+
 
 **Make Meme Better: a social media app**  
 This was my first group project at Codeclan. We wanted to create a social media app which focused on mental health positivity.   
@@ -21,7 +21,6 @@ This was my first group project at Codeclan. We wanted to create a social media 
 
 [View github repo](https://github.com/ewangomolka/Group_Project_Make_Meme_Better)
 
-<br>
 
 **Reelax: a movie companion app**  
 A Capstone Group Project; Reelax is a film recommendation and tracking platform that aims to provide a personalized and engaging movie-watching experience. Users can discover films based on various criteria, manage their watch history and create a watch later list.  
@@ -29,8 +28,6 @@ A Capstone Group Project; Reelax is a film recommendation and tracking platform 
 **Tech Stack:** JavaScript, React, Java, Spring, CSS, PostgreSQL  
 
 [View github repo](https://github.com/Corrine2212/Capstone_Project_Reelax)
-    
-<br>
 
 **Wowen Wilson: an Owen Wilson 'wow' generator**  
 The Wowen Wilson Generator is my first project using a third party API which is sourced from the Owen Wilson Wow API created by Avi Mamenko. The project is built with Javascript and React.  
@@ -39,7 +36,8 @@ The Wowen Wilson Generator is my first project using a third party API which is 
 
 [View github repo](https://github.com/Corrine2212/Wowen_Wilson_Generator) /
 [View site](https://corrine2212.github.io/Wowen_Wilson_Generator/)
-
+  <br><br>
+  
 ## 🗞 Work Experience
 
 _This section only accounts for work done post-career change._    
@@ -63,7 +61,7 @@ _Previously worked as a Operations Administrator from September 2016 - June 2021
 
 **HNC** in Business Studies<br>
 [New College Lanarkshire](https://www.nclanarkshire.ac.uk/) - Motherwell, Scotland _(2015 - 2016)_
-
+  <br><br>
 
 ## 📌 Volunteering    
 
@@ -77,7 +75,7 @@ Reception duties, maintaining information resources, debt administration and inf
 ## 🏆 Accomplishments    
 
 in progress
-
+<br><br>
 ## 💬 Languages
 
 🇬🇧 **English**: Native <br>
