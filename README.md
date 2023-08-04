@@ -24,6 +24,14 @@ Local Suffolk Charity that aimed to support people facing financial crisis and h
 _Previously worked as a Operations Administrator from September 2016 - June 2021_ <br>
   - Initially began working as the operations administrator, managing the admin for several of our projects (e.g. food bank, money advice...) over time my role has developed; I managed the charity's social media, graphic design, video/media production, website development and initial IT support.
 
+## 👩🏼‍🎓 Education    
+
+**16-week intensive Professional Software Development course** focused on full-stack JavaScript<br>
+[CodeClan](https://www.codeclan.co.uk) - Glasgow, Scotland _(March 2023 - July 2023)_ <br>
+
+**HNC** in Business Studies<br>
+[New College Lanarkshire](#) - Motherwell, Scotland _(2015 - 2016)_
+
 
 ## 📌 Volunteering    
 
@@ -33,18 +41,10 @@ Managing the admin for several of our projects (e.g. food bank, money advice...)
 **Administrator** @ [Citizens Advice Bureau](https://www.citizensadvice.org.uk/scotland/) _(Jan 2015 - Aug 2015)_ <br>
 Reception duties, maintaining information resources, debt administration and information dissemination, formulating letters, assisting illiterate clients, home visits, attending meetings, scanning and photocopying, handling incoming and outgoing mail.
   <br><br>
-  
+
 ## 🏆 Accomplishments    
 
 in progress
-
-## 👩🏼‍🎓 Education    
-
-**16-week intensive Professional Software Development course** focused on full-stack JavaScript<br>
-[CodeClan](https://www.codeclan.co.uk) - Glasgow, Scotland _(March 2023 - July 2023)_ <br>
-
-**HNC** in Business Studies<br>
-[New College Lanarkshire](#) - Motherwell, Scotland _(2015 - 2016)_
 
 ## 💬 Languages
 
