@@ -29,9 +29,7 @@ _Previously worked as a Operations Administrator from September 2016 - June 2021
 ## 📌 Volunteering
 
 **Administrator** @ [Reach Community Projects](https://www.writethedocs.org/conf/) _(June 2016 - September 2016)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
+
   <br><br>
 
 **Administrator** @ [Citizens Advice Bureau](https://www.citizensadvice.org.uk/scotland/) _(Jan 2015 - Aug 2015)_ <br>
