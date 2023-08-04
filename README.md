@@ -1,3 +1,7 @@
+---
+---
+@import "{{ site.theme }}";
+
 # Corrine Sing
 
 _Junior Software Developer based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿_ <br>
