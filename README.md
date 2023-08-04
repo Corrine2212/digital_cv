@@ -29,8 +29,7 @@ _Previously worked as a Operations Administrator from September 2016 - June 2021
 ## 📌 Volunteering
 
 **Administrator** @ [Reach Community Projects](https://www.writethedocs.org/conf/) _(June 2016 - September 2016)_<br>
-
-  <br><br>
+Managing the admin for several of our projects (e.g. food bank, money advice...)
 
 **Administrator** @ [Citizens Advice Bureau](https://www.citizensadvice.org.uk/scotland/) _(Jan 2015 - Aug 2015)_ <br>
 Reception duties, maintaining information resources, debt administration and information dissemination, formulating letters, assisting illiterate clients, home visits, attending meetings, scanning and photocopying, handling incoming and outgoing mail.
