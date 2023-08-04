@@ -1,57 +1,57 @@
-<header>
+# Corrine Sing
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+_Junior Software Developer based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿_ <br>
 
-# GitHub Pages
+[Email](mailto:corrine.sing@gmail.com) / [Website IN PROGRESS](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/corrinesing/) / [GitHub](https://github.com/corrine2212/) / [Twitter](https://twitter.com/cokidoki/))
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## 👩🏼‍💻 Developer Experience / Projects
 
-</header>
+in progress
+    
+## 🗞 Work Experience
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+_This section only accounts for work done post-career change._
+<br><br>
 
-## Finish
+**Communications Coordinator** @ [Reach Community Projects](https://www.reachhaverhill.org.uk/) _(June 2021 - January 2023)_ <br>
+Local Suffolk Charity that aimed to support people facing financial crisis and hardship.
+  - Creating marketing materials such as videos, leaflets, posters, banners, press releases, blog posts, and newsletters. 
+  - Tracking and reporting analytics on marketing and communications campaigns and coordinating promotional events.
+  - Managing charity social media accounts.
+  - Providing support with running campaigns and appeals.
+  - Managing data entry on the donor CRM system.
+  - Redesigning and updating the charity website.
 
-_Congratulations friend, you've completed this course!_
+_Previously worked as a Operations Administrator from September 2016 - June 2021_ <br>
+  - Initially began working as the operations administrator, managing the admin for several of our projects (e.g. food bank, money advice...) over time my role has developed; I managed the charity's social media, graphic design, video/media production, website development and initial IT support.
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-Your blog is now live and has been deployed!
+## 📌 Volunteering
 
-Here's a recap of all the tasks you've accomplished in your repository:
+**Administrator** @ [Reach Community Projects](https://www.writethedocs.org/conf/) _(June 2016 - September 2016)_<br>
+Technology conference focused on documentation systems, tech writing theory, and information delivery.
+  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
+  - Introduced speakers and faciliated Q&A sessions
+  <br><br>
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+**Administrator** @ [Citizens Advice Bureau](https://www.citizensadvice.org.uk/scotland/) _(Jan 2015 - Aug 2015)_ <br>
+Reception duties, maintaining information resources, debt administration and information dissemination, formulating letters, assisting illiterate clients, home visits, attending meetings, scanning and photocopying, handling incoming and outgoing mail.
+  <br><br>
+  
+## 🏆 Accomplishments
 
-### What's next?
+in progress
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+## 👩🏼‍🎓 Education
 
-<footer>
+**16-week intensive Professional Software Development course** focused on full-stack JavaScript<br>
+[CodeClan](https://www.codeclan.co.uk) - Glasgow, Scotland _(March 2023 - July 2023)_ <br>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+**HNC** in Business Studies<br>
+[New College Lanarkshire](#) - Motherwell, Scotland _(2015 - 2016)_
 
----
+## 💬 Languages
 
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+🇬🇧 **English**: Native <br>
+🇯🇵 **Japanese**: elementary
+<br><br>
