@@ -10,8 +10,7 @@ in progress
     
 ## 🗞 Work Experience
 
-_This section only accounts for work done post-career change._
-<br><br>
+_This section only accounts for work done post-career change._    
 
 **Communications Coordinator** @ [Reach Community Projects](https://www.reachhaverhill.org.uk/) _(June 2021 - January 2023)_ <br>
 Local Suffolk Charity that aimed to support people facing financial crisis and hardship.
@@ -26,7 +25,7 @@ _Previously worked as a Operations Administrator from September 2016 - June 2021
   - Initially began working as the operations administrator, managing the admin for several of our projects (e.g. food bank, money advice...) over time my role has developed; I managed the charity's social media, graphic design, video/media production, website development and initial IT support.
 
 
-## 📌 Volunteering
+## 📌 Volunteering    
 
 **Administrator** @ [Reach Community Projects](https://www.writethedocs.org/conf/) _(June 2016 - September 2016)_<br>
 Managing the admin for several of our projects (e.g. food bank, money advice...)
@@ -35,11 +34,11 @@ Managing the admin for several of our projects (e.g. food bank, money advice...)
 Reception duties, maintaining information resources, debt administration and information dissemination, formulating letters, assisting illiterate clients, home visits, attending meetings, scanning and photocopying, handling incoming and outgoing mail.
   <br><br>
   
-## 🏆 Accomplishments
+## 🏆 Accomplishments    
 
 in progress
 
-## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education    
 
 **16-week intensive Professional Software Development course** focused on full-stack JavaScript<br>
 [CodeClan](https://www.codeclan.co.uk) - Glasgow, Scotland _(March 2023 - July 2023)_ <br>
