@@ -57,7 +57,7 @@ _Previously worked as a Operations Administrator from September 2016 - June 2021
 **Freelance Researcher & Administrator** @ [Disaster Response](#) _(June 2013 - Present)_ <br>
   - Research, proofreading, editing, documentation (operational and training procedures) and graphic design for a Disaster Response Consultant.
 
-## 👩🏼‍🎓 Education    
+## 👩🏻‍🎓 Education    
 
 **PDA Software Development SCQF Lvl 8** a 16-week intensive Professional Software Development course<br>
 [CodeClan](https://www.codeclan.co.uk) - Glasgow, Scotland _(March 2023 - July 2023)_ <br>
@@ -77,13 +77,13 @@ Managing the admin for several of our projects (e.g. food bank, money advice...)
 Reception duties, maintaining information resources, debt administration and information dissemination, formulating letters, assisting illiterate clients, home visits, attending meetings, scanning and photocopying, handling incoming and outgoing mail.
   <br><br>
 
-## Skills & Experience
-- Python
-- Javascript
-- Java
+## 🔧 Skills & Experience
+- Python (Flask, Djinja)
+- Javascript (Node.js, React, Express)
+- Java (Spring)
 - MongoDB and PostgreSQL   
 - Test Driven Development
-- Object-oriented programming
+- Object-Oriented Programming
 - SOLID Principles
 - RESTFUL workflows
 - Agile Development (Pair Programming, daily standups, kanban)
