@@ -2,7 +2,7 @@
 
 _Junior Software Developer based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿_ <br>
 
-[Email](mailto:corrine.sing@gmail.com) / [Website IN PROGRESS](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/corrinesing/) / [GitHub](https://github.com/corrine2212/) / [Twitter](https://twitter.com/cokidoki/))
+[Email](mailto:corrine.sing@gmail.com) / [LinkedIn](https://www.linkedin.com/in/corrinesing/) / [GitHub](https://github.com/corrine2212/) / [Twitter](https://twitter.com/cokidoki/)
 
 ## 👩🏼‍💻 Developer Experience / Projects
 
