@@ -92,6 +92,7 @@ Reception duties, maintaining information resources, debt administration and inf
 - Adobe Software (Adobe XD, Photoshop, Illustrator)
 - Online Design Software (Canva, Figma)
 <br><br>
+
 ## 💬 Languages
 
 🇬🇧 **English**: Native <br>
