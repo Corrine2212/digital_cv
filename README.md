@@ -96,5 +96,5 @@ Reception duties, maintaining information resources, debt administration and inf
 ## 💬 Languages
 
 🇬🇧 **English**: Native <br>
-🇯🇵 **Japanese**: elementary
+🇯🇵 **Japanese**: Elementary
 <br><br>
