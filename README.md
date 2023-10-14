@@ -42,7 +42,8 @@ The Wowen Wilson Generator is my first project using a third party API which is 
 I took part in my first ever Code First Girls MOOC Javascript Challenge. As a group we had to develop an application or website that would help those struggling with the cost of living crisis. Our group wanted to build a budgeting app with the focus of empowering our users by providing them with all the available resources that would help them manage their finances. Our project made it to the finals!
 
 **Tech Stack:** JavaScript, CSS  
-[View github repo]([https://github.com/](https://github.com/Makabruh/teamindigo/tree/main))
+
+[View github repo]([https://github.com/](https://github.com/Makabruh/teamindigo/tree/main)
   <br><br>
 
 ## 🗞 Work Experience
