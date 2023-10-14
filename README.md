@@ -43,7 +43,7 @@ I took part in my first ever Code First Girls MOOC Javascript Challenge. As a gr
 
 **Tech Stack:** JavaScript, CSS  
 
-[View github repo]([https://github.com/](https://github.com/Makabruh/teamindigo/tree/main)
+[View github repo](https://github.com/Makabruh/teamindigo/tree/main)
   <br><br>
 
 ## 🗞 Work Experience
