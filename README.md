@@ -86,19 +86,22 @@ Reception duties, maintaining information resources, debt administration and inf
   <br><br>
 
 ## 🔧 Skills & Experience
-- Python (Flask, Djinja)
-- Javascript (Node.js, React, Express)
-- Java (Spring)
-- MongoDB and PostgreSQL   
-- Test Driven Development
-- Object-Oriented Programming
-- SOLID Principles
-- RESTFUL workflows
-- Agile Development (Pair Programming, daily standups, kanban)
-- Version Control (Git & GitHub)
-- Intro to User Experience Design
-- Adobe Software (Adobe XD, Photoshop, Illustrator)
-- Online Design Software (Canva, Figma)
+
+### Frontend   
+- **Javascript** / React
+
+### Backend   
+- Node.js / Java / Spring / Python
+
+### Databases 
+- MongoDB / PostgreSQL
+
+### Methodologies
+- Test Driven Development (TDD) / Object-Oriented Programming (OOP) / SOLID principles / RESTFUL workflows / Agile / Kanban
+
+### Other Tools
+- Git / Github / Figma / Adobe (XD, Photoshop, Illustrator) / Canva
+
 <br><br>
 
 ## 💬 Languages
