@@ -1,8 +1,8 @@
 # Corrine Sing
 
-_Junior Software Developer based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿_ <br>
+_Junior Software Developer based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿_  <br> 
 
-[Email](mailto:corrine.sing@gmail.com) / [LinkedIn](https://www.linkedin.com/in/corrine-sing-a27735b2/) / [GitHub](https://github.com/corrine2212/) / [CodePen](https://codepen.io/Corrine2212)
+**[Download CV (pdf version)](./corrine_sing_cv_sd_2023.pdf)** / [Email](mailto:corrine.sing@gmail.com) / [LinkedIn](https://www.linkedin.com/in/corrine-sing-a27735b2/) / [GitHub](https://github.com/corrine2212/) / [CodePen](https://codepen.io/Corrine2212)
 
 ## 👩🏼‍💻 Developer Experience / Projects
 
